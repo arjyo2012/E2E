@@ -11,7 +11,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Personal Info Page with hibernate</title>
+<title>Personal Info Page with hibernate annotations</title>
 </head>
 <body>
 <center><h1>Personal Info Page with hibernate Info Page</h1></center>
